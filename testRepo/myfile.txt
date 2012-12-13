@@ -1,0 +1,3 @@
+hello git!
+stage and commit in one step
+oops
